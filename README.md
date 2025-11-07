@@ -1,5 +1,5 @@
 # student-mental-health-analysis
-y first Python data analysis project exploring student mental health using statistical tests.
+ first Python data analysis project exploring student mental health using statistical tests.
 Overview
 
 This project explores how age and gender are related to students’ mental health — specifically depression, anxiety, and panic attacks.
